@@ -1,0 +1,18 @@
+{
+  "name": "PikkaNode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dragondarkon/PikkaNode.git",
+  "author": "jirayu.dragon@gmail.com <jirayu.dragon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^6.0.1",
+    "koa": "^2.5.1",
+    "koa-body": "^4.0.3",
+    "koa-ejs": "^4.1.1",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.3",
+    "nodemon": "^1.17.5",
+    "uuid": "^3.2.1"
+  }
+}
